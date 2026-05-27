@@ -3,10 +3,10 @@
 # ยินดีต้อนรับสู่ GitHub ของฉัน 👋
 
 ## 👤 ข้อมูลส่วนตัว (About Me)
-* **ชื่อ-นามสกุล:** [ใส่ชื่อ-นามสกุลของคุณที่นี่]
+* **ชื่อ-นามสกุล:** [67-นามสกุลของคุณที่นี่]
 * **การศึกษา:** นักศึกษา วิทยาลัยพณิชยการบางนา
 * **สาขาวิชา:** เทคโนโลยีสารสนเทศ (Information Technology)
-##[proflie]
+##[proflieiei]
 <div align="center">
     <img src=:https://rms.bncc.ac.th/files/importpicstd/01/69319010016.jpg" alt="My Profile Picture" width="200" style="border-radius: 50%;">
 </div>
