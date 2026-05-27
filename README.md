@@ -8,7 +8,7 @@
 * **สาขาวิชา:** เทคโนโลยีสารสนเทศ (Information Technology)
 
 <div align="center">
-    <img src=http://110.78.30.115/files/importpicstd/01/69319010016.jpg" alt="My Profile Picture" width="200" style="border-radius: 50%;">
+    <img src=:http://110.78.30.115/files/importpicstd/01/69319010016.jpg" alt="My Profile Picture" width="200" style="border-radius: 50%;">
 </div>
 
 ---
